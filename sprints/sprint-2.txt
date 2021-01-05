@@ -1,0 +1,5 @@
+- get students by class id
+- crear un student
+- crear una clase
+- crear un topic
+- asignar un student a una class

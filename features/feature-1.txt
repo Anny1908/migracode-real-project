@@ -21,8 +21,8 @@ What do we need?
 What endpoints do we need?
     - get all classes
     - get all students
-    - get students by class id
     - get all topics
+    - get students by class id
     - crear un student
     - crear una clase
     - crear un topic

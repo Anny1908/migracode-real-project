@@ -1,0 +1,4 @@
+(20 minuts)
+    - get all classes
+    - get all students
+    - get all topics

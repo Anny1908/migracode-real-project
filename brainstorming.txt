@@ -1,0 +1,54 @@
+- conceptos que necesitamos
+    students
+    teachers/mentors/coaches
+    schedules
+    classes (empieza y acaba a una hora)
+        classes - teachers (profesor en una clase)
+        classes - students 
+        classes - topic (javascript, React, node.js, ...)
+        classes - content (lo que se hace en la clase: authentication, security, components, arrays, ...)
+    homework
+        es para un día
+        ejercicio(s)
+    open-questions
+        estudiante pregunta algo y un voluntario le ayuda.
+    partners
+    Normas/Rules
+
+- Personas:
+    students (Joanna, Jaime, ...)
+    instructor (Eduard, Carlos, ...)
+    admin (Vincent)
+    Volunteer (no tiene por qué ser un )
+    partners
+
+- User Action(s)
+    student attends class
+    students do homeworks
+    instructor teach a class
+    students ask questions
+    volunteer answer questions
+    admin sees
+        students do homework
+        assign instructors to class
+        registers students (and volunteers)
+
+- Feature (User story)
+    · As a ... (persona)
+        I want ... (action)
+        So I can ... (goal)
+    · As a student 
+        I want to attend a class
+        So I can learn the topic
+    · As an instructor
+        I want to know who is attending my class
+        So I can check who is coming
+    · As a instructor
+        I want to teach a topic
+        So I can feel good with myself
+    · As a student
+        I want to see the homeworks
+        So I can do them
+    · As an instructor
+        I want to know which students are doing the homework
+        So I can follow their progress

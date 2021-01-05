@@ -1,0 +1,29 @@
+As a student 
+    I want to attend a class
+    So I can learn the topic
+What do we need? 
+    TABLE classes (
+        name
+        topic -> ref. table topics
+        start_time
+        end_time
+    );
+    TABLE students (
+        students_name
+    );
+    TABLE students_vs_classes (
+        student_id
+        class_id
+    );
+    TABLE topics (
+        name (html, javascript, ...)
+    );
+What endpoints do we need?
+    - get all classes
+    - get all students
+    - get students by class id
+    - get all topics
+    - crear un student
+    - crear una clase
+    - crear un topic
+    - asignar un student a una class
